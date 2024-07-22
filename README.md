@@ -20,14 +20,17 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Introduction
+## Introduction 👙
+
 Built with Next.js to handle the user interface, Three.js to render 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio showcases the developer's skills in a unique way that creates long-lasting impact.
 
-## Tech Stack
+## Tech Stack ⚙
+
 - Next.js
 - Three.js
 - Framer Motion
 - Tailwind CSS
+  
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
